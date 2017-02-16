@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>My first html</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<style type="text/css">
+	.d1 {
+		padding: 3% 0 0 3%;
+	}
+	.d2{
+		padding: 30% 0 0 0;
+		background: orange;
+		margin:0 3% 3% 0;
+		width: 30%;
+		border-radius: 10px;
+		float:right;
+	}
+</style>
+</head>
+<body>
+	<div class="d1">
+		<div class="d2"></div>
+		<div class="d2"></div>
+		<div class="d2"></div>
+		<div class="d2"></div>
+		<div class="d2"></div>
+		<div class="d2"></div>
+		<div class="d2"></div>
+		<div class="d2"></div>
+		<div class="d2"></div>
+	</div>
+</body>
+</html>
